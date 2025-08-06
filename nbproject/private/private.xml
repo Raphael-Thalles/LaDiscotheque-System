@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaPedidos.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaListagemDisco.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/ClienteDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaPrincipal.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaListagemFornecedor.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/ClienteDAO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/VendaDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaVendas.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/model/TipoUsuario.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/model/UsuarioDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/ConexaoDAO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/model/Permissao.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/model/PermissaoHelper.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/VendaDAO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaListagemCliente.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaCadastroFornecedor.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/FornecedorDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaLogin.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/DiscoDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaCadastroCliente.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaListagemVendas.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/FornecedorDAO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/PedidoDTO.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/Telas/TelaCadastroDisco.java</file>
+            <file>file:/C:/Users/Pixtoladelego/Documents/NetBeansProjects/PI2/src/pi2/DiscoDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
