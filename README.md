@@ -1,4 +1,4 @@
-[200~# Sistema La Discotheque
+# Sistema La Discotheque
  **Status do projeto:** Em desenvolvimento
 
 ## Tecnologias utilizadas
